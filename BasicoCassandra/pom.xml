@@ -99,42 +99,42 @@
 			<artifactId>snappy-java</artifactId>
 			<version>1.0.4.1</version>
 		</dependency>
-		
+
 		<dependency>
-   <groupId>com.netflix.astyanax</groupId>
-   <artifactId>astyanax-thrift</artifactId>
-   <version>1.56.48</version>
-</dependency>
+			<groupId>com.netflix.astyanax</groupId>
+			<artifactId>astyanax-thrift</artifactId>
+			<version>1.56.48</version>
+		</dependency>
 
-<dependency>
-   <groupId>com.netflix.astyanax</groupId>
-   <artifactId>astyanax</artifactId>
-   <version>1.56.48</version>
-</dependency>
+		<dependency>
+			<groupId>com.netflix.astyanax</groupId>
+			<artifactId>astyanax</artifactId>
+			<version>1.56.48</version>
+		</dependency>
 
-<dependency>
-   <groupId>com.netflix.astyanax</groupId>
-   <artifactId>astyanax-core</artifactId>
-   <version>2.0.2</version>
-</dependency>
+		<dependency>
+			<groupId>com.netflix.astyanax</groupId>
+			<artifactId>astyanax-core</artifactId>
+			<version>2.0.2</version>
+		</dependency>
 
-<dependency>
-   <groupId>org.apache.cassandra</groupId>
-   <artifactId>cassandra-all</artifactId>
-   <version>1.1.5</version>
-</dependency>
+		<dependency>
+			<groupId>org.apache.cassandra</groupId>
+			<artifactId>cassandra-all</artifactId>
+			<version>1.1.5</version>
+		</dependency>
 
-<dependency>
-   <groupId>com.netflix.astyanax</groupId>
-   <artifactId>astyanax-cassandra</artifactId>
-   <version>2.0.0</version>
-</dependency>
+		<dependency>
+			<groupId>com.netflix.astyanax</groupId>
+			<artifactId>astyanax-cassandra</artifactId>
+			<version>2.0.0</version>
+		</dependency>
 
-<dependency>
-	<groupId>com.datastax.cassandra</groupId>
-	<artifactId>cassandra-driver-core</artifactId>
-	<version>2.1.7.1</version>
-</dependency>
+		<dependency>
+			<groupId>com.datastax.cassandra</groupId>
+			<artifactId>cassandra-driver-core</artifactId>
+			<version>2.1.7.1</version>
+		</dependency>
 
 	</dependencies>
 
